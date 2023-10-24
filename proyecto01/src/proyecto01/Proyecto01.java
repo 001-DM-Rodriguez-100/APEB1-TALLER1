@@ -15,9 +15,10 @@ public class Proyecto01 {
      */
     public static void main(String[] args) {
         System.out.println("""
-                           Ejemplo b\u00e1sico de Java
-                           Versionado a trav\u00e9s de Git
-                           Manejado desde GitHub""");
+                           Ejemplo de Java
+                           Manejado desde GitHub
+                           Versionado a través de Git
+                           Creado por MRodzDirect""");
         // TODO code application logic here
     }
     
